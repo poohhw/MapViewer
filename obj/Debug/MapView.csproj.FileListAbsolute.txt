@@ -1,0 +1,16 @@
+D:\GCSC\C#\MapView\bin\Debug\MapView.dll
+D:\GCSC\C#\MapView\bin\Debug\MapView.pdb
+D:\GCSC\C#\MapView\bin\Debug\Catfood.Shapefile.dll
+D:\GCSC\C#\MapView\bin\Debug\Convert.PRJ4.dll
+D:\GCSC\C#\MapView\bin\Debug\DotSpatial.Projections.dll
+D:\GCSC\C#\MapView\bin\Debug\Convert.PRJ4.pdb
+D:\GCSC\C#\MapView\bin\Debug\Catfood.Shapefile.pdb
+D:\GCSC\C#\MapView\bin\Debug\Catfood.Shapefile.xml
+D:\GCSC\C#\MapView\bin\Debug\DotSpatial.Projections.xml
+D:\GCSC\C#\MapView\obj\Debug\MapView.csprojAssemblyReference.cache
+D:\GCSC\C#\MapView\obj\Debug\MapView.ShapeMapView.resources
+D:\GCSC\C#\MapView\obj\Debug\MapView.csproj.GenerateResource.cache
+D:\GCSC\C#\MapView\obj\Debug\MapView.csproj.CoreCompileInputs.cache
+D:\GCSC\C#\MapView\obj\Debug\MapView.csproj.CopyComplete
+D:\GCSC\C#\MapView\obj\Debug\MapView.dll
+D:\GCSC\C#\MapView\obj\Debug\MapView.pdb
